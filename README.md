@@ -8,10 +8,10 @@ en la uni y en otras universidades hay cada vez más alumnos invidentes por lo q
 pueda serles util algun día.
 
 ## Informes
-[Informe 1](https://github.com/Hiteek/enrollment-voice-uni/blob/main/Presentable.pdf)
+* [Informe 1](https://github.com/Hiteek/enrollment-voice-uni/blob/main/Presentable.pdf)
 ## Miembros del grupo
 
-Camarena Zamalloa Juan José			20171342H 
-Ricapa Corrales Rubén Anthony 		20191487A 	
-Soto Ortega Emanuel Enrique             	20194048I 	
-Poccohuanca Copacondori Mijail Frank	20171045C
+* Camarena Zamalloa Juan José			20171342H 
+* Ricapa Corrales Rubén Anthony 		20191487A 	
+* Soto Ortega Emanuel Enrique             	20194048I 	
+* Poccohuanca Copacondori Mijail Frank	20171045C
