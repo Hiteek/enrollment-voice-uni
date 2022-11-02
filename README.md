@@ -9,6 +9,7 @@ pueda serles util algun día.
 
 ## Informes
 * [Informe 1](https://github.com/Hiteek/enrollment-voice-uni/blob/main/Presentable.pdf)
+* [Informe 2](https://github.com/Hiteek/enrollment-voice-uni/blob/main/Presentable2.pdf)
 ## Miembros del grupo
 
 * Camarena Zamalloa Juan José			20171342H 
